@@ -20,3 +20,15 @@ Design patterns can speed up the development, reusing the code and improves code
 - The request must be received not guarantee
 - The performance of the system will be affected, but also in the code debugging is not easy may cause cycle call.
 - It may not be easy to observe the characteristics of operation, due to debug.
+
+
+# Abstract Factory
+>For a real life scenario, to create a kingdom we need objects with common theme. Elven kingdom needs an Elven king, Elven castle and Elven army whereas Orcish kingdom needs an Orcish king, Orcish castle and Orcish army. There is a dependency between the objects in the kingdom.
+
+
+#### When to use
+- When you need to make factory of factory for objects at runtime
+- you want to decide which product to call from a family at runtime
+
+#### Advantages
+- Make you code decoupled and more clean
