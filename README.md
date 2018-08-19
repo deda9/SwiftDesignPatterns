@@ -5,7 +5,7 @@ Design patterns are the best practices that the programmer can use to solve comm
 Design patterns can speed up the development, reusing the code and improves code readability.
 
 
-# [Chain Of Responsibility]: <https://github.com/deda9/SwiftDesignPatterns/tree/master/ChainOfResponsibility.playground>
+# [Chain Of Responsibility](https://github.com/deda9/SwiftDesignPatterns/tree/master/ChainOfResponsibility.playground)
 >For a real life scenario, in order to understand this pattern, suppose you got a problem to solve. If you are able to handle it on your own, you will do so, otherwise you will tell your friend to solve it. If he’ll able to solve he will do that, or he will also forward it to some other friend. The problem would be forwarded until it gets solved by one of your friends or all your friends have seen the problem, but no one is able to solve it, in which case the problem stays unresolved
 
 #### When to use
@@ -22,7 +22,7 @@ Design patterns can speed up the development, reusing the code and improves code
 - It may not be easy to observe the characteristics of operation, due to debug.
 
 
-# [Abstract Factory]: <https://github.com/deda9/SwiftDesignPatterns/tree/master/AbstractFactory.playground>
+# [Abstract Factory](https://github.com/deda9/SwiftDesignPatterns/tree/master/AbstractFactory.playground)
 >For a real life scenario, to create a kingdom we need objects with common theme. Elven kingdom needs an Elven king, Elven castle and Elven army whereas Orcish kingdom needs an Orcish king, Orcish castle and Orcish army. There is a dependency between the objects in the kingdom.
 
 
