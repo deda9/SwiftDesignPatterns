@@ -70,3 +70,11 @@ Design patterns can speed up the development, reusing the code and improves code
 
 #### When to use
 - When you need to filter a set of objects using different criteria and chaining them in a decoupled way through logical operations.
+
+
+
+### 8- [Composite](https://github.com/deda9/SwiftDesignPatterns/tree/master/Composite.playground)
+
+#### When to use
+- When you need to treat a group of objects in similar ay as a single object and it composes the objects in a tree structure
+
