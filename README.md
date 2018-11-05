@@ -32,3 +32,9 @@ Design patterns can speed up the development, reusing the code and improves code
 
 #### Advantages
 - Make you code decoupled and more clean
+
+
+# [Decorator Factory](https://github.com/deda9/SwiftDesignPatterns/tree/master/Decorator.playground)
+
+#### When to use
+- When you need to add new functionality to an existing object without altering its structure. 
