@@ -54,8 +54,14 @@ Design patterns can speed up the development, reusing the code and improves code
 
 
 
-### 4- [Adapter](https://github.com/deda9/SwiftDesignPatterns/tree/master/Adapter.playground)
+### 6- [Adapter](https://github.com/deda9/SwiftDesignPatterns/tree/master/Adapter.playground)
 
 #### When to use
 - When you need to convert the interface of a class into another interface where these calsses can work together
+
+
+### 7- [Bridge](https://github.com/deda9/SwiftDesignPatterns/tree/master/Bridge.playground)
+
+#### When to use
+- When you need to decouple an abstraction from its implementation so that the two can vary independently.
 
