@@ -50,4 +50,4 @@ Design patterns can speed up the development, reusing the code and improves code
 
 #### When to use
 - When you need to optimize the use case where multiple objects of the same type will have mostly the same data, so you can clone(copy) the existing object.
-- LIKE: when an object is created from parsed data from data over the network. Then rather than re-parsing data each time a new object is created, the prototype pattern can be used to simply duplicate the original object whenever a new one is needed.
+- **LIKE** : when an object is created from parsed data from data over the network. Then rather than re-parsing data each time a new object is created, the prototype pattern can be used to simply duplicate the original object whenever a new one is needed.
