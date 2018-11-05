@@ -53,7 +53,6 @@ Design patterns can speed up the development, reusing the code and improves code
 - **LIKE** : when an object is created from parsed data from data over the network. Then rather than re-parsing data each time a new object is created, the prototype pattern can be used to simply duplicate the original object whenever a new one is needed.
 
 
-
 ### 6- [Adapter](https://github.com/deda9/SwiftDesignPatterns/tree/master/Adapter.playground)
 
 #### When to use
@@ -72,9 +71,12 @@ Design patterns can speed up the development, reusing the code and improves code
 - When you need to filter a set of objects using different criteria and chaining them in a decoupled way through logical operations.
 
 
-
-### 8- [Composite](https://github.com/deda9/SwiftDesignPatterns/tree/master/Composite.playground)
+### 9- [Facade](https://github.com/deda9/SwiftDesignPatterns/tree/master/Facade.playground)
 
 #### When to use
-- When you need to treat a group of objects in similar ay as a single object and it composes the objects in a tree structure
+- When you need to hide the complexities of the system and provides an interface to the client
+
+
+
+
 
