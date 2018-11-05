@@ -34,13 +34,20 @@ Design patterns can speed up the development, reusing the code and improves code
 - Make you code decoupled and more clean
 
 
-### [Decorator Factory](https://github.com/deda9/SwiftDesignPatterns/tree/master/Decorator.playground)
+### [Decorator](https://github.com/deda9/SwiftDesignPatterns/tree/master/Decorator.playground)
 
 #### When to use
 - When you need to add new functionality to an existing object without altering its structure. 
 
 
-### [Builder Factory](https://github.com/deda9/SwiftDesignPatterns/tree/master/Builder.playground)
+### [Builder](https://github.com/deda9/SwiftDesignPatterns/tree/master/Builder.playground)
 
 #### When to use
-- When you need to draw a complex object with simple way, step by step
+- When you need to build a complex object with simple way, step by step
+
+
+### [Prototype](https://github.com/deda9/SwiftDesignPatterns/tree/master/Prototype.playground)
+
+#### When to use
+- When you need to optimize the use case where multiple objects of the same type will have mostly the same data, so you can clone(copy) the existing object.
+- when the object is created from data parsed from data over the network. Rather than retrieving the data and re-parsing it each time a new object is created, the prototype pattern can be used to simply duplicate the original object whenever a new one is needed.
