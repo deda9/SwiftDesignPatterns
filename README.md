@@ -38,3 +38,9 @@ Design patterns can speed up the development, reusing the code and improves code
 
 #### When to use
 - When you need to add new functionality to an existing object without altering its structure. 
+
+
+### [Builder Factory](https://github.com/deda9/SwiftDesignPatterns/tree/master/Builder.playground)
+
+#### When to use
+- When you need to draw a complex object with simple way, step by step
