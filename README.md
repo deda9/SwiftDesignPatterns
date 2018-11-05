@@ -65,3 +65,8 @@ Design patterns can speed up the development, reusing the code and improves code
 #### When to use
 - When you need to decouple an abstraction from its implementation so that the two can vary independently.
 
+
+### 8- [Filter](https://github.com/deda9/SwiftDesignPatterns/tree/master/Filter.playground)
+
+#### When to use
+- When you need to filter a set of objects using different criteria and chaining them in a decoupled way through logical operations.
