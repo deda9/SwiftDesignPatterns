@@ -77,11 +77,14 @@ Design patterns can speed up the development, reusing the code and improves code
 - When you need to hide the complexities of the system and provides an interface to the client
 
 
-### 9- [Flyweight](https://github.com/deda9/SwiftDesignPatterns/tree/master/Flyweight.playground)
+### 10- [Flyweight](https://github.com/deda9/SwiftDesignPatterns/tree/master/Flyweight.playground)
 
 #### When to use
 - When you need to reduce the number of objects created and to decrease memory usage, by storing them and creates new object when no matching object is found
 
 
+### 11- [Command](https://github.com/deda9/SwiftDesignPatterns/tree/master/Command.playground)
 
+#### When to use
+- When you need to encapsulate a request as an object and passed to invoker object which looks for the appropriate object which can handle this command and passes the command to the corresponding object which executes the command.
 
