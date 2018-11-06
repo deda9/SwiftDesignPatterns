@@ -106,3 +106,9 @@ Design patterns can speed up the development, reusing the code and improves code
 - When you need to define a set of encapsulated algorithms that can be swapped to carry out a specific behaviour at the runtime
 
 
+### 15- [Mediator](https://github.com/deda9/SwiftDesignPatterns/tree/master/Mediator.playground)
+
+#### When to use
+- When you need to reduce the communication complexity between the related classes by encapsulating the sets of objects which interact and communicate with each other and usually when object need to talk to another object
+
+
