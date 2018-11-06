@@ -124,9 +124,14 @@ Design patterns can speed up the development, reusing the code and improves code
 - When there is one-to-many relationship between objects such as if one object is modified, its depenedent objects are to be notified automatically
 
 
-### 17- [Visitor](https://github.com/deda9/SwiftDesignPatterns/tree/master/Visitor.playground)
+### 18- [Visitor](https://github.com/deda9/SwiftDesignPatterns/tree/master/Visitor.playground)
 
 #### When to use
 - When you need to define a new operation without changing the classes of the elements on which it operates.
 
+
+### 19- [Template](https://github.com/deda9/SwiftDesignPatterns/tree/master/Template.playground)
+
+#### When to use
+- When two or more implementations of a similar algorithm exist and it lets subclasses redefine certain steps of an algorithm without changing the algorithms structure.
 
