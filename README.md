@@ -112,7 +112,14 @@ Design patterns can speed up the development, reusing the code and improves code
 - When you need to reduce the communication complexity between the related classes by encapsulating the sets of objects which interact and communicate with each other and usually when object need to talk to another object
 
 
-### 15- [Proxy](https://github.com/deda9/SwiftDesignPatterns/tree/master/Proxy.playground)
+### 16- [Proxy](https://github.com/deda9/SwiftDesignPatterns/tree/master/Proxy.playground)
 
 #### When to use
 - When you need to control and manage the access for the object which you are protecting, it can be defined as a surrogate
+
+
+### 17- [Observer](https://github.com/deda9/SwiftDesignPatterns/tree/master/Observer.playground)
+
+#### When to use
+- When there is one-to-many relationship between objects such as if one object is modified, its depenedent objects are to be notified automatically
+

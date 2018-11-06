@@ -15,9 +15,9 @@ class RedDecorator: Shape {
         self.shape = shape
     }
     
-    func  draw() {
-     self.shape.draw()
-     setShapeRedColor()
+    func draw() {
+        self.shape.draw()
+        setShapeRedColor()
     }
     
     private func setShapeRedColor() {
@@ -32,7 +32,7 @@ class BorderDecorator: Shape {
         self.shape = shape
     }
     
-    func  draw() {
+    func draw() {
         self.shape.draw()
         setShapeBorder()
     }
