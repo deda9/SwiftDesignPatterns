@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/bassemqoulta/Desktop/SwiftDesignPatterns/Memento.playground#CharacterRangeLen=26&amp;CharacterRangeLoc=991&amp;EndingColumnNumber=0&amp;EndingLineNumber=44&amp;StartingColumnNumber=16&amp;StartingLineNumber=43&amp;Timestamp=563197066.897736"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/bassemqoulta/Desktop/SwiftDesignPatterns/Memento.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=622&amp;EndingColumnNumber=13&amp;EndingLineNumber=29&amp;StartingColumnNumber=9&amp;StartingLineNumber=29&amp;Timestamp=563197066.89791"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>

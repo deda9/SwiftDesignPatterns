@@ -88,3 +88,10 @@ Design patterns can speed up the development, reusing the code and improves code
 #### When to use
 - When you need to encapsulate a request as an object and passed to invoker object which looks for the appropriate object which can handle this command and passes the command to the corresponding object which executes the command.
 
+
+### 11- [Memento](https://github.com/deda9/SwiftDesignPatterns/tree/master/Memento.playground)
+
+#### When to use
+- When you need to restor the state of an objec to the pervious state.
+
+
